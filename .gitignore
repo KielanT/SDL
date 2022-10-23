@@ -65,6 +65,7 @@ xcuserdata
 .vs
 Debug
 Release
+Distribution
 *.user
 *.ncb
 *.suo
